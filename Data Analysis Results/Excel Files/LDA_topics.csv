@@ -1,0 +1,13 @@
+topic,label,top_words
+T1,Topic 1,"debt, collection, not, company, claim, provide, request, letter, state, receive, owe, send"
+T2,Topic 2,"credit, report, account, not, remove, score, bureau, dispute, information, no, transunion, company"
+T3,Topic 3,"payment, pay, card, charge, not, make, credit, late, fee, month, account, receive"
+T4,Topic 4,"credit, report, inquiry, not, identity, theft, account, fraudulent, information, card, fraud, remove"
+T5,Topic 5,"not, tell, say, time, ask, send, pay, try, phone, company, no, know"
+T6,Topic 6,"account, balance, date, open, creditor, not, number, close, payment, charge, credit, status"
+T7,Topic 7,"insurance, property, tax, sale, financial, home, s, vehicle, title, document, sell, mortgage"
+T8,Topic 8,"account, bank, not, check, money, receive, fund, day, no, email, chase, tell"
+T9,Topic 9,"report, credit, information, account, not, dispute, item, file, delete, letter, remove, bureau"
+T10,Topic 10,"loan, payment, mortgage, not, make, pay, home, month, time, request, year, modification"
+T11,Topic 11,"consumer, section, reporting, s, c, account, u, right, agency, information, state, not"
+T12,Topic 12,"balance, paypal, record, no, not, owe, complaint, ca, file, item, tx, inquire"

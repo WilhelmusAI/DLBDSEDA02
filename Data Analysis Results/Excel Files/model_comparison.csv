@@ -1,0 +1,5 @@
+model,status,detail,training_rows,evaluation_rows,topic_definitions,used_topics,assigned_rows,coverage,runtime_minutes
+LSA,complete,Signed LSA poles; score is the absolute dominant component weight.,1200000,1000,12,9,1000,1.0,0.285887943332394
+LDA,complete,Custom PyTorch CUDA online variational LDA; dominant estimated topic probability. Runtime includes accumulated completed training sessions.,1200000,1000,12,12,1000,1.0,42.78484461333331
+BERTopic,complete,"Online BERTopic variant: 12-cluster MiniBatchKMeans on MiniLM document embeddings; 3 passes over all training rows; no dimensionality reduction. c-TF-IDF uses each training document once and the shared training vocabulary. Stop words retained. No outlier detector or membership probabilities. Runtime is this cell invocation, including cache reuse; it is not necessarily cold-start time.",1200000,1000,12,12,1000,1.0,48.95515788166667
+NMF,complete,"Mini-batch NMF on TF-IDF; score is dominant contribution share, not probability.",1200000,1000,12,12,1000,1.0,1.767025628334765

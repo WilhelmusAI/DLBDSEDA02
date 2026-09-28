@@ -1,0 +1,13 @@
+topic,label,top_words
+N1,NMF topic 1,"report, account, credit, not, remove, information, dispute, bureau, reporting, file, inaccurate, equifax"
+N2,NMF topic 2,"section, c, u, right, s, reporting, consumer, state, privacy, furnish, violate, instruction"
+N3,NMF topic 3,"payment, loan, pay, tell, mortgage, not, bank, make, month, say, time, check"
+N4,NMF topic 4,"debt, collection, letter, company, owe, validation, send, collect, request, collector, receive, provide"
+N5,NMF topic 5,"account, open, bank, number, close, fraudulent, collection, money, fraud, identity, debt, theft"
+N6,NMF topic 6,"theft, identity, victim, block, consumer, result, information, inquiry, item, fraudulent, file, trade"
+N7,NMF topic 7,"inquiry, credit, hard, authorize, unauthorized, report, remove, company, date, not, transunion, pull"
+N8,NMF topic 8,"day, item, immediately, delete, letter, response, dispute, receive, regard, ignore, send, unknown"
+N9,NMF topic 9,"information, consumer, card, use, personal, consent, usc, party, report, security, complaint, person"
+N10,NMF topic 10,"credit, card, score, report, n, pay, charge, item, remove, never, debt, collection"
+N11,NMF topic 11,"late, payment, day, date, usc, statement, charge, fee, creditor, balance, b, make"
+N12,NMF topic 12,"balance, bureau, credit, date, validate, erroneous, law, item, original, open, unverified, owe"

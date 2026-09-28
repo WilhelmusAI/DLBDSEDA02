@@ -1,0 +1,13 @@
+topic,label,top_words
+B0,Online BERTopic cluster 0,"inquiry, credit, report, not, equifax, score, hard, information, remove, date, experian, company"
+B1,Online BERTopic cluster 1,"not, account, number, phone, information, company, no, address, time, send, receive, ask"
+B2,Online BERTopic cluster 2,"consumer, information, report, credit, identity, theft, not, account, reporting, block, agency, file"
+B3,Online BERTopic cluster 3,"debt, collection, not, credit, company, owe, report, pay, account, receive, send, letter"
+B4,Online BERTopic cluster 4,"section, c, u, right, reporting, s, consumer, state, privacy, violate, furnish, account"
+B5,Online BERTopic cluster 5,"report, credit, information, account, dispute, not, bureau, letter, inaccurate, reporting, item, day"
+B6,Online BERTopic cluster 6,"card, charge, not, credit, account, fee, pay, payment, balance, receive, bank, tell"
+B7,Online BERTopic cluster 7,"mortgage, loan, payment, not, home, pay, tell, modification, receive, time, property, make"
+B8,Online BERTopic cluster 8,"loan, payment, pay, not, student, make, month, navient, time, tell, year, rate"
+B9,Online BERTopic cluster 9,"late, payment, report, credit, account, day, not, pay, make, month, time, date"
+B10,Online BERTopic cluster 10,"bank, account, not, money, check, tell, fund, deposit, say, transaction, no, transfer"
+B11,Online BERTopic cluster 11,"account, report, credit, remove, identity, not, theft, delete, item, open, information, fraudulent"

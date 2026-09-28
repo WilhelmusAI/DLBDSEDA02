@@ -1,0 +1,13 @@
+topic,label,top_words
+C1+,"Component 1, + pole","account, credit, report, not, section, information, consumer, reporting, s, state, c, u"
+C1-,"Component 1, - pole","xxxxxxxxcontinuestofurnishinquiresonmycreditreport, xxxxxxxxaccountopeninmynameforxxxxdollars, youarerequiredtocomply, yourpaymentduedatewillnothaveanyalertwhatsoeverthatitislate, synchronydoesnotsendanynotificationsaboutpaymentduedates, xxxxxxxxxxxxamountxxxxxxxxdateopenedxxxx, xxxxandthereptriedtotransfermetothedepartmentthatsetupthepaymentandthecalldropped, shedidntmentionanythingaboutapaymentbeingscheduledforxxxxbutnowafullpaymentjustcameoutofmyaccount, whenwillthisloanbepaidoff, whereismymoneygoingandiwantthatxx, whatismybalance, sitemanager"
+C2+,"Component 2, + pole","section, c, u, right, reporting, s, consumer, privacy, state, furnish, violate, instruction"
+C2-,"Component 2, - pole","report, payment, not, credit, pay, loan, company, receive, send, tell, debt, remove"
+C3+,"Component 3, + pole","report, credit, information, item, inquiry, remove, theft, identity, delete, inaccurate, bureau, file"
+C3-,"Component 3, - pole","payment, loan, pay, bank, tell, card, make, late, mortgage, say, fee, charge"
+C4+,"Component 4, + pole","debt, collection, letter, send, company, information, owe, consumer, validation, receive, request, provide"
+C4-,"Component 4, - pole","account, open, inquiry, card, bank, theft, identity, fraudulent, balance, late, close, credit"
+C5+,"Component 5, + pole","account, debt, theft, identity, collection, open, victim, number, bank, fraudulent, money, owe"
+C5-,"Component 5, - pole","payment, late, loan, inquiry, report, credit, day, inaccurate, mortgage, item, month, make"
+C6+,"Component 6, + pole","account, late, report, dispute, collection, debt, bureau, balance, inaccurate, letter, credit, day"
+C6-,"Component 6, - pole","inquiry, theft, identity, victim, consumer, loan, block, hard, authorize, unauthorized, card, make"
